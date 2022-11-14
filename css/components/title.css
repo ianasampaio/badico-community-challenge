@@ -1,0 +1,16 @@
+.title {
+  font-family: "Titillium Web", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.title.-first {
+  font-weight: 400;
+  color: #000000;
+}
+
+.title.-second {
+  font-weight: 600;
+  line-height: 30px;
+  font-size: 20px;
+}

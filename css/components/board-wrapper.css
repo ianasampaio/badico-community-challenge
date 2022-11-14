@@ -1,0 +1,6 @@
+.board-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 82px 32px;
+  padding: 75px 0 0;
+}

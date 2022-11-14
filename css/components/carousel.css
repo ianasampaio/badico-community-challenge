@@ -1,0 +1,23 @@
+.carousel-wrapper {
+  margin-left: 60px;
+  margin-bottom: 170px;
+}
+
+.carousel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  border-width: 0px 1px 0px 0px;
+  border-style: solid;
+  border-color: #d9d9d9;
+  padding: 70px 0 60px;
+}
+
+.space-carousel {
+  padding-bottom: 10px;
+}
+
+.color {
+  color: #787878;
+}

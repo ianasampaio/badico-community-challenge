@@ -1,0 +1,53 @@
+.cronograma-content {
+  padding: 60px 70px;
+  width: auto;
+}
+.title-box {
+  margin-bottom: 80px;
+}
+
+.board {
+  position: relative;
+  width: 100%;
+  max-width: 352px;
+  height: 404px;
+}
+.board-content {
+  position: relative;
+  height: 100%;
+}
+
+.board-content:hover .board-border {
+  height: 100%;
+}
+
+.board-border {
+  width: 72%;
+  height: calc(100% - 16px);
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-radius: 0px 10px 0px 0px;
+  transition: all 50ms linear;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.board-title {
+  position: absolute;
+  font-family: "Titillium Web", sans-serif;
+  color: #ea3323;
+  text-align: left;
+  padding: 0px 16px 0px 0px;
+  font-weight: 600;
+  font-size: 20px;
+  transition: all 50ms linear;
+}
+
+.board-content:hover .board-title {
+  transform: translateY(-16px);
+}
+
+.board-space {
+  padding-top: 30px;
+}

@@ -1,0 +1,10 @@
+.main-title {
+  font-family: "Orbitron", sans-serif;
+  font-size: 48px;
+  font-weight: 800;
+  color: #000000;
+}
+
+.main-title.-second {
+  font-size: 32px;
+}

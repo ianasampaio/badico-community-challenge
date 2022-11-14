@@ -1,0 +1,141 @@
+.background-classify {
+  height: 357px;
+  background: linear-gradient(
+    90deg,
+    #2a2a35 1.02%,
+    #505063 51.48%,
+    #2a2a35 100%
+  );
+}
+
+.background-style {
+  position: relative;
+}
+
+.main-title.-classify {
+  color: #f3f3f3;
+}
+
+.title-classify {
+  padding: 70px 323px 87px 324px;
+  text-align: center;
+}
+
+.pilots-classify {
+  margin-left: 87px;
+  margin-right: 87px;
+  margin-top: -227px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.winners {
+  margin: 258px 87px 309px 88px;
+}
+
+.toogle .content {
+  transition: all 200ms linear;
+  height: 0;
+  overflow: hidden;
+  display: flex;
+}
+
+.toogle.open .winners-header {
+  border-bottom: none;
+}
+
+.toogle.open .content {
+  height: 300px;
+  padding: 0 0 10px 10px;
+  border-bottom: 1px solid rgba(177, 177, 177, 0.6);
+}
+
+.winners-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 57px;
+  padding: 0 10px;
+  background-color: #ffffff;
+  border-bottom: 1px solid rgba(177, 177, 177, 0.6);
+  cursor: pointer;
+}
+
+.winners-header .name {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.name-before {
+  background-color: #4570c0;
+  width: 5px;
+  height: 19px;
+  margin-right: 10px;
+}
+
+.name-before.-red {
+  background-color: #fa1e01;
+}
+
+.name .style-1 {
+  margin-right: 10px;
+}
+
+.name .style-2 {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #b1b1b1;
+}
+
+.name .background {
+  width: 70px;
+  height: 33px;
+  background: #ededec;
+  border-radius: 50px;
+  margin-right: 10px;
+}
+
+.name .style-3 {
+  position: absolute;
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  color: #000000;
+  margin-left: 10px;
+}
+
+.content {
+  background-color: #ffffff;
+}
+
+.winner-description {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.description {
+  padding: 14px 32px 4px 32px;
+}
+
+.description h1,
+h2 {
+  padding-bottom: 10px;
+  line-height: 37px;
+}
+
+.title-info {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  color: #6f6f6f;
+}

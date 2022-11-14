@@ -1,0 +1,11 @@
+.box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.box .bar {
+  width: 521px;
+  height: 16px;
+  background-color: #000000;
+}

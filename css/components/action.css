@@ -1,0 +1,25 @@
+.action {
+  display: inline-flex;
+  align-items: center;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+.select-page {
+  box-sizing: border-box;
+  width: 143px;
+  height: 52px;
+  border-width: 0px 1px 1px 0px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.6);
+  border-radius: 0px 0px 12px 0px;
+}
+
+.classify {
+  margin-right: 13px;
+}
+
+.crono {
+  margin-right: 17px;
+}
