@@ -6,4 +6,3 @@ Projeto front-end desenvolvido para o desafio da comunidade Badico-nautas. O sit
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-Link para o site: https://ianasampaio.github.io/badico-community-challenge/
