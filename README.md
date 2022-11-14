@@ -6,3 +6,4 @@ Projeto front-end desenvolvido para o desafio da comunidade Badico-nautas. O sit
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+Link: https://badico-community-challenge.netlify.app/
